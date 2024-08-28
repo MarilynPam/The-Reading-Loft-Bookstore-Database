@@ -25,7 +25,7 @@ The database includes the following entities:
 12. **Genre**: Subtype of fiction for further categorization.
 
 ## Features
-- **Efficient Data Management**: Organizes data for easy access and management.
-- **Inventory Tracking**: Monitors inventory levels to meet customer demand.
+- **Efficient Data Management**: Organizes data for easy access and management, including SQL procedures.
+- **Inventory Tracking**: Monitors inventory levels to meet customer demand and storage space needed to accomodate such inventory.
 - **Secure Access**: Ensures data security and integrity.
 - **Scalability**: Designed to handle the growing data needs of the bookstore.
